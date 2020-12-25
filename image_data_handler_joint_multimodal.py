@@ -83,13 +83,14 @@ class ImageDataHandler(object):
 
         return img_paths_rgb, img_paths_depth, labels, data_size
 
+    def _create_dataset(self):
+        """
+        创建数据集
+        :return:
+        """
+        data = []
 
-    # def _create_dataset(self):
-    #     """
-    #     创建数据集
-    #     :return:
-    #     """
-    #     pass
+        return data
 
     def _prepare_input(self, filename_rgb, filename_depth, label):
         """

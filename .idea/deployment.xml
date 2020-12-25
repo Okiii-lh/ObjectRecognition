@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" autoUpload="Always" serverName="liuh@192.168.1.120:22">
     <serverData>
+      <paths name="liuh@192.168.1.120:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liuh/PycharmProjects/ObjectRecognition" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="liuh@192.168.1.120:22 (2)">
         <serverdata>
           <mappings>
